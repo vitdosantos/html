@@ -1,0 +1,8 @@
+site_name: My Blog
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Projetos:
+     - Zabbix Project: blogs/projetos/zabbixpj.md
