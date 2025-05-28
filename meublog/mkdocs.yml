@@ -6,3 +6,5 @@ nav:
   - Home: index.md
   - Projetos:
      - Zabbix Project: blogs/projetos/zabbixpj.md
+  - Estudos:
+    - Estudo de Docker: blogs/anotacoes/estudodocker.md
